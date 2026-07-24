@@ -1,0 +1,601 @@
+[
+  {
+    "category": "Aptitude",
+    "question": "What is the capital of India?",
+    "options": ["Mumbai", "Delhi", "Chennai", "Kolkata"],
+    "answer": "Delhi",
+    "difficulty": "easy"
+  },
+
+  {
+    "category": "Python",
+    "question": "Which language is used for AI?",
+    "options": ["Python", "HTML", "CSS", "XML"],
+    "answer": "Python",
+    "difficulty": "easy"
+  },
+
+  {
+    "category": "AI",
+    "question": "What does CNN stand for in Deep Learning?",
+    "options": [
+      "Convolutional Neural Network",
+      "Central Neural Node",
+      "Computer Neural Network",
+      "Core Neural Net"
+    ],
+    "answer": "Convolutional Neural Network",
+    "difficulty": "medium"
+  },
+
+  {
+    "category": "ML",
+    "question": "Which algorithm is used in classification?",
+    "options": [
+      "Linear Regression",
+      "K-Means",
+      "Decision Tree",
+      "PCA"
+    ],
+    "answer": "Decision Tree",
+    "difficulty": "medium"
+  },
+
+  {
+    "category": "AI",
+    "question": "Which optimization algorithm is commonly used in deep learning?",
+    "options": [
+      "Adam",
+      "Bubble Sort",
+      "DFS",
+      "Binary Search"
+    ],
+    "answer": "Adam",
+    "difficulty": "hard"
+  },
+
+  {
+    "category": "ML",
+    "question": "What is overfitting in machine learning?",
+    "options": [
+      "Model performs well only on training data",
+      "Model trains very slowly",
+      "Model has fewer parameters",
+      "Model cannot learn"
+    ],
+    "answer": "Model performs well only on training data",
+    "difficulty": "hard"
+  },
+
+  {
+    "category": "DBMS",
+    "question": "What does DBMS stand for?",
+    "options": [
+      "Database Management System",
+      "Data Backup Management System",
+      "Digital Base Management System",
+      "Database Machine System"
+    ],
+    "answer": "Database Management System",
+    "difficulty": "easy"
+  },
+
+  {
+    "category": "DBMS",
+    "question": "Which SQL command is used to fetch data?",
+    "options": [
+      "SELECT",
+      "DELETE",
+      "DROP",
+      "UPDATE"
+    ],
+    "answer": "SELECT",
+    "difficulty": "easy"
+  },
+
+  {
+    "category": "Cyber Security",
+    "question": "What is phishing?",
+    "options": [
+      "Cyber attack to steal data",
+      "Fishing in ocean",
+      "AI model",
+      "Database attack"
+    ],
+    "answer": "Cyber attack to steal data",
+    "difficulty": "medium"
+  },
+
+  {
+    "category": "Cyber Security",
+    "question": "Which of these is a strong password?",
+    "options": [
+      "123456",
+      "password",
+      "Dh@nuj#2025",
+      "qwerty"
+    ],
+    "answer": "Dh@nuj#2025",
+    "difficulty": "easy"
+  },
+
+  {
+    "category": "Python",
+    "question": "Which keyword is used to define a function in Python?",
+    "options": [
+      "func",
+      "define",
+      "def",
+      "function"
+    ],
+    "answer": "def",
+    "difficulty": "easy"
+  },
+
+  {
+    "category": "Aptitude",
+    "question": "What is 25 × 4?",
+    "options": [
+      "50",
+      "75",
+      "100",
+      "125"
+    ],
+    "answer": "100",
+    "difficulty": "easy"
+  },
+
+  
+  {
+    "category": "Python",
+    "difficulty": "easy",
+    "question": "Which keyword is used to define a function in Python?",
+    "options": ["func", "define", "def", "function"],
+    "answer": "def"
+  },
+  {
+    "category": "Python",
+    "difficulty": "easy",
+    "question": "Which data type is immutable in Python?",
+    "options": ["List", "Dictionary", "Tuple", "Set"],
+    "answer": "Tuple"
+  },
+  {
+    "category": "Python",
+    "difficulty": "easy",
+    "question": "What is the output of print(2 + 3 * 2)?",
+    "options": ["10", "12", "8", "7"],
+    "answer": "8"
+  },
+  {
+    "category": "Python",
+    "difficulty": "easy",
+    "question": "Which symbol is used for comments in Python?",
+    "options": ["//", "#", "/*", "--"],
+    "answer": "#"
+  },
+  {
+    "category": "Python",
+    "difficulty": "medium",
+    "question": "Which method is used to add an item to a list?",
+    "options": ["insert()", "append()", "add()", "push()"],
+    "answer": "append()"
+  },
+  {
+    "category": "Python",
+    "difficulty": "medium",
+    "question": "What is the correct file extension for Python files?",
+    "options": [".pt", ".py", ".python", ".p"],
+    "answer": ".py"
+  },
+  {
+    "category": "Python",
+    "difficulty": "medium",
+    "question": "Which keyword is used for loops in Python?",
+    "options": ["loop", "iterate", "for", "repeat"],
+    "answer": "for"
+  },
+  {
+    "category": "Python",
+    "difficulty": "medium",
+    "question": "Which function is used to get user input in Python?",
+    "options": ["scan()", "cin()", "input()", "get()"],
+    "answer": "input()"
+  },
+  {
+    "category": "Python",
+    "difficulty": "hard",
+    "question": "Which module is used for regular expressions in Python?",
+    "options": ["regex", "pyregex", "re", "expression"],
+    "answer": "re"
+  },
+  {
+    "category": "Python",
+    "difficulty": "hard",
+    "question": "Which keyword is used for exception handling?",
+    "options": ["catch", "handle", "try", "error"],
+    "answer": "try"
+  },
+
+  {
+    "category": "AI",
+    "difficulty": "easy",
+    "question": "What does AI stand for?",
+    "options": ["Automated Intelligence", "Artificial Intelligence", "Advanced Internet", "Applied Informatics"],
+    "answer": "Artificial Intelligence"
+  },
+  {
+    "category": "AI",
+    "difficulty": "easy",
+    "question": "Which AI system mimics human decision making?",
+    "options": ["Compiler", "Expert System", "Database", "OS"],
+    "answer": "Expert System"
+  },
+  {
+    "category": "AI",
+    "difficulty": "easy",
+    "question": "Which branch of AI deals with language understanding?",
+    "options": ["NLP", "CV", "DSA", "DBMS"],
+    "answer": "NLP"
+  },
+  {
+    "category": "AI",
+    "difficulty": "medium",
+    "question": "Which search algorithm uses heuristics?",
+    "options": ["BFS", "DFS", "A*", "Linear Search"],
+    "answer": "A*"
+  },
+  {
+    "category": "AI",
+    "difficulty": "medium",
+    "question": "What is the main goal of AI?",
+    "options": ["Gaming", "Automation", "Simulation of intelligence", "Networking"],
+    "answer": "Simulation of intelligence"
+  },
+  {
+    "category": "AI",
+    "difficulty": "medium",
+    "question": "Which AI technique is used in self-driving cars?",
+    "options": ["Computer Vision", "Compiler Design", "Blockchain", "DBMS"],
+    "answer": "Computer Vision"
+  },
+  {
+    "category": "AI",
+    "difficulty": "hard",
+    "question": "Which test is used to measure machine intelligence?",
+    "options": ["IQ Test", "Turing Test", "Logic Test", "Captcha"],
+    "answer": "Turing Test"
+  },
+  {
+    "category": "AI",
+    "difficulty": "hard",
+    "question": "Which algorithm is commonly used in reinforcement learning?",
+    "options": ["Q-Learning", "KNN", "Apriori", "Naive Bayes"],
+    "answer": "Q-Learning"
+  },
+
+  {
+    "category": "DBMS",
+    "difficulty": "easy",
+    "question": "What does DBMS stand for?",
+    "options": ["Data Backup Management System", "Database Management System", "Digital Base Management System", "Data Building Management System"],
+    "answer": "Database Management System"
+  },
+  {
+    "category": "DBMS",
+    "difficulty": "easy",
+    "question": "Which language is used to query databases?",
+    "options": ["HTML", "CSS", "SQL", "Python"],
+    "answer": "SQL"
+  },
+  {
+    "category": "DBMS",
+    "difficulty": "easy",
+    "question": "Which key uniquely identifies a record?",
+    "options": ["Foreign Key", "Primary Key", "Candidate Key", "Alternate Key"],
+    "answer": "Primary Key"
+  },
+  {
+    "category": "DBMS",
+    "difficulty": "medium",
+    "question": "Which normal form removes partial dependency?",
+    "options": ["1NF", "2NF", "3NF", "BCNF"],
+    "answer": "2NF"
+  },
+  {
+    "category": "DBMS",
+    "difficulty": "medium",
+    "question": "Which SQL command is used to remove a table?",
+    "options": ["DELETE", "REMOVE", "DROP", "CLEAR"],
+    "answer": "DROP"
+  },
+  {
+    "category": "DBMS",
+    "difficulty": "medium",
+    "question": "Which join returns all matching records?",
+    "options": ["INNER JOIN", "LEFT JOIN", "RIGHT JOIN", "FULL JOIN"],
+    "answer": "INNER JOIN"
+  },
+  {
+    "category": "DBMS",
+    "difficulty": "hard",
+    "question": "Which protocol ensures transaction reliability?",
+    "options": ["TCP", "ACID", "HTTP", "FTP"],
+    "answer": "ACID"
+  },
+  {
+    "category": "DBMS",
+    "difficulty": "hard",
+    "question": "Which indexing structure is commonly used in databases?",
+    "options": ["Tree", "B+ Tree", "Graph", "Stack"],
+    "answer": "B+ Tree"
+  },
+
+  {
+    "category": "ML",
+    "difficulty": "easy",
+    "question": "What does ML stand for?",
+    "options": ["Machine Learning", "Modern Logic", "Machine Logic", "Managed Learning"],
+    "answer": "Machine Learning"
+  },
+  {
+    "category": "ML",
+    "difficulty": "easy",
+    "question": "Which type of learning uses labeled data?",
+    "options": ["Unsupervised", "Supervised", "Reinforcement", "Semi-supervised"],
+    "answer": "Supervised"
+  },
+  {
+    "category": "ML",
+    "difficulty": "easy",
+    "question": "Which algorithm is used in classification?",
+    "options": ["Decision Tree", "K-Means", "PCA", "Apriori"],
+    "answer": "Decision Tree"
+  },
+  {
+    "category": "ML",
+    "difficulty": "medium",
+    "question": "What is overfitting?",
+    "options": ["Model performs well only on training data", "Model trains slowly", "Model has less accuracy", "Model ignores data"],
+    "answer": "Model performs well only on training data"
+  },
+  {
+    "category": "ML",
+    "difficulty": "medium",
+    "question": "Which library is widely used for ML in Python?",
+    "options": ["NumPy", "Scikit-learn", "Tkinter", "Flask"],
+    "answer": "Scikit-learn"
+  },
+  {
+    "category": "ML",
+    "difficulty": "medium",
+    "question": "Which algorithm is used for clustering?",
+    "options": ["KNN", "Linear Regression", "K-Means", "Decision Tree"],
+    "answer": "K-Means"
+  },
+  {
+    "category": "ML",
+    "difficulty": "hard",
+    "question": "Which activation function is commonly used in deep learning?",
+    "options": ["ReLU", "Bubble Sort", "DFS", "Merge"],
+    "answer": "ReLU"
+  },
+  {
+    "category": "ML",
+    "difficulty": "hard",
+    "question": "Which metric is used for regression evaluation?",
+    "options": ["Accuracy", "Precision", "Recall", "MSE"],
+    "answer": "MSE"
+  },
+  {
+    "question": "What is 25% of 200?",
+    "options": ["25", "50", "75", "100"],
+    "answer": "50",
+    "difficulty": "easy",
+    "category": "Aptitude"
+  },
+  {
+    "question": "If 5x = 45, find x.",
+    "options": ["5", "9", "10", "15"],
+    "answer": "9",
+    "difficulty": "easy",
+    "category": "Aptitude"
+  },
+  {
+    "question": "What is the square root of 144?",
+    "options": ["10", "11", "12", "13"],
+    "answer": "12",
+    "difficulty": "easy",
+    "category": "Aptitude"
+  },
+  {
+    "question": "A train travels 60 km in 1 hour. What is its speed?",
+    "options": ["40 km/h", "50 km/h", "60 km/h", "70 km/h"],
+    "answer": "60 km/h",
+    "difficulty": "easy",
+    "category": "Aptitude"
+  },
+  {
+    "question": "What is 15 + 28?",
+    "options": ["43", "44", "45", "46"],
+    "answer": "43",
+    "difficulty": "easy",
+    "category": "Aptitude"
+  },
+  {
+    "question": "If a pen costs ₹10, what is the cost of 5 pens?",
+    "options": ["₹40", "₹50", "₹60", "₹70"],
+    "answer": "₹50",
+    "difficulty": "easy",
+    "category": "Aptitude"
+  },
+  {
+    "question": "Find the missing number: 2, 4, 6, 8, __",
+    "options": ["9", "10", "11", "12"],
+    "answer": "10",
+    "difficulty": "easy",
+    "category": "Aptitude"
+  },
+  {
+    "question": "What is 30% of 500?",
+    "options": ["100", "150", "200", "250"],
+    "answer": "150",
+    "difficulty": "easy",
+    "category": "Aptitude"
+  },
+  {
+    "question": "If 12 notebooks cost ₹240, what is the cost of one notebook?",
+    "options": ["₹10", "₹15", "₹20", "₹25"],
+    "answer": "₹20",
+    "difficulty": "easy",
+    "category": "Aptitude"
+  },
+  {
+    "question": "Find the next number: 3, 6, 9, 12, __",
+    "options": ["14", "15", "16", "18"],
+    "answer": "15",
+    "difficulty": "easy",
+    "category": "Aptitude"
+  },
+  {
+    "question": "A shop gives 10% discount on ₹1000. Find final price.",
+    "options": ["₹800", "₹850", "₹900", "₹950"],
+    "answer": "₹900",
+    "difficulty": "medium",
+    "category": "Aptitude"
+  },
+  {
+    "question": "If a car travels 240 km in 4 hours, what is its speed?",
+    "options": ["40 km/h", "50 km/h", "60 km/h", "70 km/h"],
+    "answer": "60 km/h",
+    "difficulty": "medium",
+    "category": "Aptitude"
+  },
+  {
+    "question": "What is the average of 10, 20, 30?",
+    "options": ["15", "20", "25", "30"],
+    "answer": "20",
+    "difficulty": "medium",
+    "category": "Aptitude"
+  },
+  {
+    "question": "Find the value of 7².",
+    "options": ["42", "47", "49", "56"],
+    "answer": "49",
+    "difficulty": "medium",
+    "category": "Aptitude"
+  },
+  {
+    "question": "If the ratio of boys to girls is 2:3 and there are 30 girls, how many boys are there?",
+    "options": ["10", "15", "20", "25"],
+    "answer": "20",
+    "difficulty": "medium",
+    "category": "Aptitude"
+  },
+  {
+    "question": "A man buys an item for ₹500 and sells it for ₹600. Find profit.",
+    "options": ["₹50", "₹100", "₹150", "₹200"],
+    "answer": "₹100",
+    "difficulty": "medium",
+    "category": "Aptitude"
+  },
+  {
+    "question": "Find the next number: 5, 10, 20, 40, __",
+    "options": ["60", "70", "80", "90"],
+    "answer": "80",
+    "difficulty": "medium",
+    "category": "Aptitude"
+  },
+  {
+    "question": "What is 18% of 250?",
+    "options": ["35", "40", "45", "50"],
+    "answer": "45",
+    "difficulty": "medium",
+    "category": "Aptitude"
+  },
+  {
+    "question": "If 8 workers complete a job in 6 days, how many days will 4 workers take?",
+    "options": ["10", "12", "14", "16"],
+    "answer": "12",
+    "difficulty": "medium",
+    "category": "Aptitude"
+  },
+  {
+    "question": "Find HCF of 12 and 18.",
+    "options": ["2", "4", "6", "8"],
+    "answer": "6",
+    "difficulty": "medium",
+    "category": "Aptitude"
+  },
+  {
+    "question": "A train 120m long crosses a pole in 6 seconds. Find speed.",
+    "options": ["20 m/s", "25 m/s", "30 m/s", "35 m/s"],
+    "answer": "20 m/s",
+    "difficulty": "hard",
+    "category": "Aptitude"
+  },
+  {
+    "question": "Simple interest on ₹2000 at 5% for 2 years is?",
+    "options": ["₹100", "₹150", "₹200", "₹250"],
+    "answer": "₹200",
+    "difficulty": "hard",
+    "category": "Aptitude"
+  },
+  {
+    "question": "Find the missing number: 1, 4, 9, 16, __",
+    "options": ["20", "25", "30", "36"],
+    "answer": "25",
+    "difficulty": "hard",
+    "category": "Aptitude"
+  },
+  {
+    "question": "A boat moves at 10 km/h in still water and river speed is 2 km/h. What is downstream speed?",
+    "options": ["8 km/h", "10 km/h", "12 km/h", "14 km/h"],
+    "answer": "12 km/h",
+    "difficulty": "hard",
+    "category": "Aptitude"
+  },
+  {
+    "question": "What is compound interest on ₹1000 at 10% for 2 years?",
+    "options": ["₹200", "₹210", "₹220", "₹230"],
+    "answer": "₹210",
+    "difficulty": "hard",
+    "category": "Aptitude"
+  },
+  {
+    "question": "Find LCM of 12 and 15.",
+    "options": ["30", "45", "60", "90"],
+    "answer": "60",
+    "difficulty": "hard",
+    "category": "Aptitude"
+  },
+  {
+    "question": "If the probability of winning is 1/5, what is probability of losing?",
+    "options": ["1/5", "2/5", "3/5", "4/5"],
+    "answer": "4/5",
+    "difficulty": "hard",
+    "category": "Aptitude"
+  },
+  {
+    "question": "A person walks 5 km north and 12 km east. Find shortest distance from start.",
+    "options": ["11 km", "12 km", "13 km", "14 km"],
+    "answer": "13 km",
+    "difficulty": "hard",
+    "category": "Aptitude"
+  },
+  {
+    "question": "What is the cube of 5?",
+    "options": ["25", "75", "100", "125"],
+    "answer": "125",
+    "difficulty": "hard",
+    "category": "Aptitude"
+  },
+  {
+    "question": "If a number is divisible by both 3 and 5, it must be divisible by?",
+    "options": ["8", "10", "15", "20"],
+    "answer": "15",
+    "difficulty": "hard",
+    "category": "Aptitude"
+  }
+
+]
