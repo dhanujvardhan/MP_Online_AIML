@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>RAG Chatbot — Capstone Project</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="app">
+    <!-- Sidebar: document upload + status -->
+    <aside class="sidebar">
+      <h1>📚 RAG Chatbot</h1>
+      <p class="subtitle">Ask questions grounded in your own documents.</p>
+
+      <div class="upload-box" id="dropZone">
+        <input type="file" id="fileInput" accept=".pdf,.txt" hidden />
+        <p>📄 Click or drag a <strong>.pdf</strong> / <strong>.txt</strong> file here</p>
+        <button id="browseBtn">Choose File</button>
+      </div>
+      <div id="uploadStatus" class="status-msg"></div>
+
+      <div class="kb-status">
+        <h3>Knowledge Base</h3>
+        <p id="kbInfo">No documents loaded yet.</p>
+        <button id="resetBtn" class="reset-btn">🗑 Clear Knowledge Base</button>
+      </div>
+
+      <div class="footer-note">
+        Backend: <code>http://localhost:8000</code><br/>
+        100% local models — no API key needed.
+      </div>
+    </aside>
+
+    <!-- Main chat area -->
+    <main class="chat-area">
+      <div class="chat-window" id="chatWindow">
+        <div class="message bot">
+          👋 Hi! Upload a document on the left, then ask me anything about it.
+        </div>
+      </div>
+
+      <form class="chat-input-row" id="chatForm">
+        <input type="text" id="userInput" placeholder="Ask a question about your documents..." autocomplete="off" />
+        <button type="submit" id="sendBtn">Send ➤</button>
+      </form>
+    </main>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
